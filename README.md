@@ -7,4 +7,6 @@ For testing, migrations need to be applied
 
 ---
 Current state (CSS is not yet implemented)
+<p>
 <img width="300px" alt="online_study_room_version_1" src="https://github.com/DexMerc/storage/blob/main/img_s/online_study_room_version_1.png" />
+</p>
