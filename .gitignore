@@ -3,7 +3,8 @@
 studyblog/db.sqlite3
 studyblog/__pychache__/
 base/__pychache__/
-studyblog/settings.py
+#studyblog/settings.py
+studyblog/settings_copy.py
 
 
 ### Python template
