@@ -5,4 +5,6 @@ Refreshing knowledge/learning Django. Following the video tutorial by [Traversy 
 
 For testing, migrations need to be applied
 
-<img alt="online_study_room_version_1" src="https://github.com/DexMerc/storage/blob/main/img_s/online_study_room_version_1.png" />
+---
+Current state (CSS is not yet implemented)
+<img width="300px" alt="online_study_room_version_1" src="https://github.com/DexMerc/storage/blob/main/img_s/online_study_room_version_1.png" />
